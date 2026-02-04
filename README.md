@@ -51,9 +51,9 @@ Hello and welcome to the Github repo of my Web Development Projects. Each projec
 
 > This is a work in progress personal project (Tour Booking Site).
 
-[View it live from your browser.](https://touring.vercel.app/) Deployed with Vercel
+[View it live from your browser.](https://jw-tours-eight.vercel.app/) Deployed with Vercel
 <br>
-[View project source code.](https://github.com/mrjaysonwong/touring)
+[View project source code.](https://github.com/mrjaysonwong/jw-tours)
 <br>
 [Figma wireframe.] Work in progress.
 
