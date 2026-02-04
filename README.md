@@ -46,7 +46,7 @@ Hello and welcome to the Github repo of my Web Development Projects. Each projec
 </details>
 
 <details>
-<summary>3. Touring </summary>
+<summary>3. JW Tours </summary>
 <h3>Overview</h3>
 
 > This is a work in progress personal project (Tour Booking Site).
